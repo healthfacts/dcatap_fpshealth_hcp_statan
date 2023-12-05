@@ -1,0 +1,27 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "7c4fda31-08f2-1e7c-bc6b-bf288ed5dbf2",
+    "title": "Annual statistics on healthcare professionals in Belgium (2022) : Paramedics (Nederlandstalige versie)",
+    "description": "For each professional title involved in healthcare in Belgium, the annual statistics are broken down by region and province of residence, by age category and by gender of the persons registered in the federal database of healthcare professionals. The data includes the \"stock\" of healthcare professionals who are allowed to practice the profession, as well as the inflow for the past year.",
+    "publisher": "Federal Public Service Public Health, Food Chain Safety and Environment",
+    "downloadURL": "https://github.com/healthfacts/distributions_fpshealth_hcp_statan/blob/main/fpshealth_hcp_statan_2022_Paramedici_nl.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_fpshealth_hcp_statan/blob/main/fpshealth_hcp_statan_2022_Paramedici_nl.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 20201,
+    "modificationDate": "2023-11-23 11:38:25",
+    "status": "completed",
+    "language": "nl",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://www.health.belgium.be/en/node/41179",
+    "keyword": [],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "0ed7ad9e-067b-48b6-bd47-689948952cdb",
+        "title": "Annual statistics on healthcare professionals in Belgium",
+        "landingPage": "https://www.health.belgium.be/en/node/41179",
+        "contactPoint": "FPS Public Health, Food Chain Safety and Environment, Directorate General of Healthcare, Cell Planning of the health care professions, Galileelaan 5/01, 1210 Brussels, Belgium",
+        "contactPointEmail": "Plan.team@health.fgov.be"
+    }
+}
